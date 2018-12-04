@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical 4.1 SharedPreference</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_file">prefFile</string>
+</resources>
